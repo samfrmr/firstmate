@@ -1,0 +1,5 @@
+cp: cannot stat '/tmp/fm-calm-base.nZipEF/.pi/extensions/lib/fm-calm-tool-layout.ts': No such file or directory
+not ok - Pi 0.84.1 exited at startup with Calm on beside a foreign bash extension: Error: Failed to load extension "/tmp/fm-calm-foreign-tool.y6oyqU/agent/extensions/foreign-bash.ts": Tool "bash" conflicts with /tmp/fm-calm-foreign-tool.y6oyqU
+/project/.pi/extensions/fm-calm.ts
+Hint: Start without extensions using "pi -ne".
+PI_EXIT=1

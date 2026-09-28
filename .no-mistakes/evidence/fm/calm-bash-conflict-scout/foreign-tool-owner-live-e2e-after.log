@@ -1,0 +1,5 @@
+ok - Pi 0.84.1 starts with Calm already on beside a foreign extension that owns bash
+ok - Calm on hides the bash row of a foreign bash owner and the read row
+ok - Calm registers no built-in tool: the foreign extension keeps bash and Pi keeps read
+ok - The first /calm collapses rows already on screen and shows no ownership warning
+ok - Turning Calm off restores the bash and read rows

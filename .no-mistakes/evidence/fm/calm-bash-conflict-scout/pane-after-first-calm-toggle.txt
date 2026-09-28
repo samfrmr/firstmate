@@ -1,0 +1,40 @@
+
+ pi v0.84.1
+ escape interrupt · ctrl+c/ctrl+d clear/exit · / commands · ! bash · ctrl+o more
+ Press ctrl+o to show full startup help and loaded resources.
+
+ Pi can explain its own features and look up its docs. Ask it how to use or extend Pi.
+
+[Extensions]
+  fm-calm.ts, foreign-bash.ts, probe.ts
+
+
+ Warning: tmux extended-keys is off. Modified Enter keys may not work. Add `set -g extended-keys on` to ~/.tmux.conf and restart tmux.
+
+
+ PROBE_PROMPT
+
+
+ PROBE_FINAL_REPLY
+
+ Tool output: collapsed
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+/tmp/fm-calm-foreign-tool.hxEQCs/project (main)
+↑2.5k ↓23 R1.3k W2.5k CH34.8% 47.4%/4.1k (auto)                                                                                                    deterministic
+
+
+
+
+
+
+
+
+
+
+
+
+
+

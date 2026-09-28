@@ -1,0 +1,43 @@
+skip: installed @earendil-works/pi-coding-agent package not found
+ok - Pi calm compatibility evidence never rejects a Pi version for being newer than 0.82.0, and still fails closed on a missing or malformed version
+skip: installed @earendil-works/pi-coding-agent package not found
+ok - missing Pi presentation class exports reach the independent adapter degradation path
+skip: installed @earendil-works/pi-coding-agent package not found
+skip: installed @earendil-works/pi-coding-agent package not found
+skip: installed @earendil-works/pi-coding-agent package not found
+skip: installed @earendil-works/pi-coding-agent package not found
+skip: installed @earendil-works/pi-coding-agent package not found
+ok - Pi operational follow-up E2E processes exact user-role notifications once while Calm hides current and adjacent rows, Calm off and absent render them, and restart preserves semantics
+not ok - Pi Calm restarted a turn silently after Escape (missing: 'Firstmate supervision continues in a new turn.')
+--- output ---
+
+ pi v0.84.1
+ escape interrupt · ctrl+c/ctrl+d clear/exit · / commands · ! bash · ctrl+o more
+ Press ctrl+o to show full startup help and loaded resources.
+
+ Pi can explain its own features and look up its docs. Ask it how to use or extend Pi.
+
+[Extensions]
+  fm-calm.ts, queued-escape-e2e.ts
+
+
+ Warning: tmux extended-keys is off. Modified Enter keys may not work. Add `set -g extended-keys on` to ~/.tmux.conf and restart tmux.
+
+
+ CAPTAIN_PROMPT_queued_on
+
+
+
+ hold_turn
+ released
+
+
+ Error: This operation was aborted
+
+ MONITOR_HANDLED_queued_on
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+/tmp/fm-calm-pi-extension.4gV2jn/queued-escape-project (main)
+↑2.2k ↓10 R691 W2.2k CH31.2% 54.3%/4.1k (auto)                                                                                                     deterministic

@@ -1,0 +1,41 @@
+cp: cannot stat '/tmp/fm-calm-base.nZipEF/.pi/extensions/lib/fm-calm-tool-layout.ts': No such file or directory
+not ok - Pi 0.84.1: the first /calm did not collapse the bash row already on screen (still shown: 'FOREIGN_BASH_OUTPUT'):  pi v0.84.1
+ escape interrupt · ctrl+c/ctrl+d clear/exit · / commands · ! bash · ctrl+o more
+ Press ctrl+o to show full startup help and loaded resources.
+
+ Pi can explain its own features and look up its docs. Ask it how to use or extend Pi.
+
+[Extensions]
+  fm-calm.ts, foreign-bash.ts, probe.ts
+
+
+ Warning: tmux extended-keys is off. Modified Enter keys may not work. Add `set -g extended-keys on` to ~/.tmux.conf and restart tmux.
+
+
+ PROBE_PROMPT
+
+
+
+ $ echo FOREIGN_BASH_COMMAND
+
+ FOREIGN_BASH_OUTPUT
+
+ Took 0.0s
+
+
+
+ read README.md
+
+
+ PROBE_FINAL_REPLY
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+ Warning: Firstmate Calm: the "bash" built-in tool is already provided by another extension, so Calm may not fully function for it this session.
+
+ Tool output: collapsed
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+/tmp/fm-calm-foreign-tool.PiQTTn/project (main)
+↑2.5k ↓23 R1.3k W2.5k CH34.8% 47.4%/4.1k (auto)                                                                                                    deterministic
